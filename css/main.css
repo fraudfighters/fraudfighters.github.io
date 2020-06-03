@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Poppins:300,400,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 .btn {
   padding: 0.75rem 2.2rem;
   font-size: 1rem;
@@ -298,7 +298,7 @@ body {
 .home-section1 .title {
   font-size: 110px;
   font-weight: normal;
-  font-family: "Bree Serif", serif;
+  font-family: "Anton", serif;
   margin-bottom: 30px;
 }
 
